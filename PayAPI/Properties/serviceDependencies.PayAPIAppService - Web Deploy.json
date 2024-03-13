@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "apis2": {
+      "apiEndpoint": "https://payapiappservice-apim.azure-api.net/paypi",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/PayAPIAppService-apim/apis/PayAPI",
+      "type": "apis.azure"
+    }
+  }
+}
